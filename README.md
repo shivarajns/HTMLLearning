@@ -2,6 +2,8 @@
 
 A simple and interactive Color Picker built with **React JS**. This project allows users to select a color from a color input and instantly displays the **HEX value** of the selected color.
 
+# Live Link: https://shivarajns.github.io/colorpicker/
+
 ## 🚀 Features
 
 - Built using React functional components and hooks.
